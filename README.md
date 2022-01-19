@@ -20,6 +20,4 @@ Case studies applying the Reference Ontology of Trust (ROT)
 
 - Amaral G., Sales T.P., Guizzardi G., Porello D. (2021) **Ontological Foundations for Trust Management: Extending the Reference Ontology of Trust**. In: Proceedings of 15th International Workshop on Value Modelling and Business Ontologies, Bolzano, Italy, March 4-5, 2021. VMBO 2021. http://ceur-ws.org/Vol-2835/paper2.pdf
 
-- Amaral G., Sales T.P., Guizzardi G., Almeida J.P.A., Porello D. (2020) **Modeling Trust in Enterprise Architecture: A Pattern Language for ArchiMate**. In: Grabis J., Bork D. (eds) The Practice of Enterprise Modeling. PoEM 2020. Lecture Notes in Business Information Processing, vol 400. Springer, Cham. [https://doi.org/10.1007/978-3-030-63479-7_6](https://doi.org/10.1007/978-3-030-63479-7_6)
-
 - Sales T.P., Baião F., Guizzardi G., Almeida J.P.A., Guarino N., Mylopoulos J. (2018) **The Common Ontology of Value and Risk**. In: Trujillo J. et al. (eds) Conceptual Modeling. ER 2018. Lecture Notes in Computer Science, vol 11157. Springer, Cham. [https://doi.org/10.1007/978-3-030-00847-5_11](https://doi.org/10.1007/978-3-030-00847-5_11)
