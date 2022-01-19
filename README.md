@@ -4,7 +4,7 @@ Case studies applying the Reference Ontology of Trust (ROT)
 
 ## Project Structure
 
-* [/cbdc]contains files related to the case study about citizens' trust in CEntral Bank Digital Currency Ecosystems
+* [/cbdc] contains files related to the case study on citizens' trust in Central Bank Digital Currency (CBDC) ecosystems
 
 
 ## Authors
